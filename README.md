@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&random=false&width=1012&height=80&lines=Hello!+Welcome+to+my+profile;I+am+Jarvis%2C+a+Python+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&center=true&multiline=true&random=false&repeat=false&width=1012&height=80&lines=Hello!+Welcome+to+my+profile;I+am+Jarvis%2C+a+Python+Backend+Developer)](https://git.io/typing-svg)
 ---
 <div style="display: flex; justify-content: space-between;">
   <img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker/c0b1810a36a1a9313a9cb829ccf29fc0.gif" alt="範例圖片" style="width: 200px;">

@@ -15,6 +15,7 @@
   <img width="30" height="30" src="https://cdn.simpleicons.org/MySQL/" /> 
   <img width="30" height="30" src="https://cdn.simpleicons.org/mongodb/" />
   <img width="30" height="30" src="https://cdn.simpleicons.org/nginx" /> 
+  <img width="30" height="30" src="https://cdn.simpleicons.org/django/" />
   <img width="30" height="30" src="https://cdn.simpleicons.org/docker/" />
 </p>
 

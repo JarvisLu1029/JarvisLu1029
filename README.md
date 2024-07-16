@@ -24,6 +24,6 @@
   <a width="30" height="30" href="https://github.com/JarvisLu1029"><img width="30" height="30" src="https://cdn.simpleicons.org/github/white"></a>
   <a width="30" height="30" href="https://discord.com/"><img width="30" height="30" src="https://cdn.simpleicons.org/discord/"></a>
   <a width="30" height="30" href="https://www.instagram.com/jarvis_lu1029/" target="_blank" alt="Instagram"/><img width="30" height="30" src="https://cdn.simpleicons.org/instagram/"></a> 
-  <a width="30" height="30" href="https://www.cakeresume.com/aaa1029a1029"><img width="30" height="30" src="https://media.cakeresume.com/image/upload/s--4vv9eQBw--/c_pad,fl_png8,h_400,w_400/v1719801719/nbjjv9v9pnikfgprvrse.png"></a>
+<!--   <a width="30" height="30" href="https://www.cakeresume.com/aaa1029a1029"><img width="30" height="30" src="https://media.cakeresume.com/image/upload/s--4vv9eQBw--/c_pad,fl_png8,h_400,w_400/v1719801719/nbjjv9v9pnikfgprvrse.png"></a> -->
 </p>
   

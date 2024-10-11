@@ -10,19 +10,19 @@
 <p style="display: flex; align-items: center;">
   <img width="30" height="30" src="https://github.com/hussainweb/hussainweb/raw/main/icons/python.png" />
   <img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" />
-  <img width="30" height="30" src="https://cdn.simpleicons.org/MySQL/" />
-  <img width="30" height="30" src="https://cdn.simpleicons.org/Elasticsearch/" />
-  <img width="30" height="30" src="https://cdn.simpleicons.org/mongodb/" />
+  <img width="30" height="30" src="https://cdn.simpleicons.org/MySQL" />
+  <img width="30" height="30" src="https://cdn.simpleicons.org/Elasticsearch" />
+  <img width="30" height="30" src="https://cdn.simpleicons.org/mongodb" />
   <img width="30" height="30" src="https://cdn.simpleicons.org/nginx" /> 
-  <img width="30" height="30" src="https://cdn.simpleicons.org/django/" />
-  <img width="30" height="30" src="https://cdn.simpleicons.org/docker/" />
+  <img width="30" height="30" src="https://cdn.simpleicons.org/django" />
+  <img width="30" height="30" src="https://cdn.simpleicons.org/docker" />
 </p>
 
 ## 💬 Contact me:
 <p style="display: flex; align-items: center;">
   <a width="30" height="30" href="https://github.com/JarvisLu1029"><img width="30" height="30" src="https://cdn.simpleicons.org/github/white"></a>
-  <a width="30" height="30" href="https://discord.com/"><img width="30" height="30" src="https://cdn.simpleicons.org/discord/"></a>
-  <a width="30" height="30" href="https://www.instagram.com/jarvis_lu1029/" target="_blank" alt="Instagram"/><img width="30" height="30" src="https://cdn.simpleicons.org/instagram/"></a> 
+  <a width="30" height="30" href="https://discord.com/"><img width="30" height="30" src="https://cdn.simpleicons.org/discord"></a>
+  <a width="30" height="30" href="https://www.instagram.com/jarvis_lu1029/" target="_blank" alt="Instagram"/><img width="30" height="30" src="https://cdn.simpleicons.org/instagram"></a> 
 <!--   <a width="30" height="30" href="https://www.cakeresume.com/aaa1029a1029"><img width="30" height="30" src="https://media.cakeresume.com/image/upload/s--4vv9eQBw--/c_pad,fl_png8,h_400,w_400/v1719801719/nbjjv9v9pnikfgprvrse.png"></a> -->
 </p>
   

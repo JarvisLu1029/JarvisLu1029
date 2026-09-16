@@ -49,8 +49,18 @@
 </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker/c0b1810a36a1a9313a9cb829ccf29fc0.gif" alt="範例圖片" style="width: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvislu1029&layout=compact&hide=css,scss&theme=dark" alt="Top Langs" style="width: 350px;" align="right">
+  <a href="https://github.com/jarvislu1029">
+    <img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker/c0b1810a36a1a9313a9cb829ccf29fc0.gif" alt="範例圖片" style="width: 200px;">
+  </a>
+  <a href="https://github.com/jarvislu1029">
+    <picture>
+      <source
+        srcset="https://github-stats-extended.vercel.app/api?username=jarvislu1029&theme=calm&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Jarvis's+Stats"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-stats-extended.vercel.app/api?username=jarvislu1029&theme=light_github&show_icons=true&include_all_commits=true&rank_icon=github" />
+    </picture>
+  </a>
 </div>
 
 <p align="center">
